@@ -6,7 +6,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:saurabhpalande60@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="22px" width="22px" />
   </a>
 </p>
 
