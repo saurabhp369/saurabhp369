@@ -13,12 +13,7 @@
 I am a graduate student at the University of Maryland, College Park, pursuing my Professional Master’s degree in Robotics (M. Eng. Robotics) and expecting to graduate by May 2023.
 My experties lies in Computer Vision, Autonomous navigation, Robotic Manipulators, and Industrial Automation, and I am always looking for opportunities that enable me to contribute to these fields.
 
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhp369&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
-  <br />
-  <br />
-</div>
+
 
 
 #### &nbsp;&nbsp;My interests
