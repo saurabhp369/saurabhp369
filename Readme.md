@@ -11,7 +11,7 @@
 </p>
 
 I am a graduate student at the University of Maryland, College Park, pursuing my Professional Master’s degree in Robotics (M. Eng. Robotics) and expecting to graduate by May 2023.
-My experties lies in Computer Vision, Autonomous navigation, Robotic Manipulators, and Industrial Automation, and I am always looking for opportunities that enable me to contribute to these fields.
+My expertise lies in Computer Vision, Autonomous navigation, Robotic Manipulators, and Industrial Automation, and I am always looking for opportunities that enable me to contribute to these fields.
 
 
 
