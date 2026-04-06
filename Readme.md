@@ -16,7 +16,8 @@ I’m a Robotics Software Engineer specializing in computer vision and GPU-accel
 #### &nbsp;&nbsp;My interests
 
 * Robotics
-* Computer Vision/Perception 
+* Computer Vision/Perception
+* CUDA + GPU optimization 
 * Machine learning
 
 <br />
